@@ -1,7 +1,7 @@
 # ams-data-cleaning-challenge
 
 Useful resources:
-	- OpenRefine download links
+	- OpenRefine - (https://openrefine.org/download.html)
 	- GitHub to push code, may need GitHub desktop to push your work and questions
 
 Need:
@@ -11,7 +11,7 @@ Need:
 
 Challenge:
 - Normalize a small set of data to a specific format. 
-	- Column renames
+	- Column renames and re order
 	- Standardize phone numbers
 	- Standardize email fields with extra characters
 	- Remove records with no contact info
@@ -19,5 +19,5 @@ Challenge:
 - Apply 2 cross reference mappings for policy types and client contact info
 
 
-
+Pull from the 'generic_insurance_client_report' the 'Email_Primary', 'Phone_Home', 'Email_Alternate', 'First_Name', 'Last_Name', and 'Phone_Cell' details onto the '1000-generic_insurance' report. Use the 'ApplicantID' as the Unique Identifyer
 
