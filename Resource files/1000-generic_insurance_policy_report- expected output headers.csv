@@ -1,0 +1,2 @@
+agent_on_customer,branch_name,ApplicantID,last_name,first_name,phone_number,phone_number_2,email,glovebox_policy_type_id,carrier_name_lowercase,glovebox_carrier_id,email_2,policy_number,ams_policy_type,ams_policy_status,carrier_name,writing_carrier_name,start_date,end_date,policy_division,active_inactive_status
+,,,,,,,,,,,,,,,,,,,,
