@@ -33,6 +33,7 @@ Using the supplied data files, meet the following objectives:
 Email your Point of Contact for this role:
 
 - JSON file of your Open Refine rules for reference.
+- A document recording the steps of the cleaning
 - Screenshot the records where:
 	- No phone numbers or email address are present
 	- 'glovebox_policy_type_id' are blank
@@ -40,6 +41,6 @@ Email your Point of Contact for this role:
 
 ## Questions and Clarifications
 
-If you have additioanl questions, would like clarification, or need any pointers please open an issue on this repository and tag your point of contact.
+If you have additional questions, would like clarification, or need any pointers please open an issue on this repository and tag your point of contact.
 
 Good luck!
