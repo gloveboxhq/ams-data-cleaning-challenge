@@ -30,7 +30,7 @@ Using the supplied data files, meet the following objectives:
 
 ## Submission Process
 
-Email your Point of Contact for this role:
+Click 'reply all' to the 'GloveBox Interview | Data Challenge' email you received:
 
 - JSON file of your Open Refine rules for reference.
 - A document recording the steps of the cleaning
